@@ -31,4 +31,6 @@ List of Angular courses
 📈 = advance
 🧠 = comprehensive, includes advance material
 👪 = Ng, TypeScript, RxJS (family)
+
+(icon labels are used conservatively)
 ```
