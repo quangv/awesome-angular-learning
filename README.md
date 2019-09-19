@@ -9,7 +9,7 @@ List of Angular courses
 # Binge Learning Sites
 
 - https://www.pluralsight.com/
-  - https://app.pluralsight.com/paths/skill/angular - 52h 🧠
+  - https://app.pluralsight.com/paths/skill/angular - 14 courses - 52h Angular Path 🧠
 - https://www.lynda.com/
   - https://www.lynda.com/AngularJS-training-tutorials/1696-0.html?category=advanced_339 - 📈
 
