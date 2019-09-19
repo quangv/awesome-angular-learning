@@ -14,6 +14,8 @@ List of Angular courses
   - https://www.lynda.com/AngularJS-training-tutorials/1696-0.html?category=advanced_339 - 📈
 
 ----
+```
 ⚪ = not comprehensive
 📈 = advance
 🧠 = comprehensive
+```
