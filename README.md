@@ -13,9 +13,22 @@ List of Angular courses
 - https://www.lynda.com/
   - https://www.lynda.com/AngularJS-training-tutorials/1696-0.html?category=advanced_339 - 📈
 
+# Free
+
+- https://www.bitovi.com/academy/ - Bitovi Academy 👪
+  - [Angular](https://www.bitovi.com/academy/learn-angular.html) ⚪
+  - [TypeScript](https://www.bitovi.com/academy/learn-typescript.html)
+  - [RxJS](https://www.bitovi.com/academy/learn-rxjs.html)
+  - [JS](https://www.bitovi.com/academy/learn-advanced-javascript.html)
+
+
+
+
+
 ----
 ```
 ⚪ = not comprehensive
 📈 = advance
-🧠 = comprehensive
+🧠 = comprehensive, includes advance material
+👪 = Ng, TypeScript, RxJS (family)
 ```
