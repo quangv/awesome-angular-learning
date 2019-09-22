@@ -36,6 +36,7 @@ List of Angular courses
   - [JS](https://www.bitovi.com/academy/learn-advanced-javascript.html)
 - https://www.udemy.com/course/getting-started-with-angular-2/
 - https://teamtreehouse.com/library/angular-basics-2
+- https://www.sitepoint.com/learn/angular/
 
 
 # Awesome 🕶️
