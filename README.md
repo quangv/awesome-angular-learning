@@ -27,6 +27,7 @@ List of Angular courses
 - https://angular.io/tutorial - Tour of Heroes!
 - https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/ 👍
   - https://scrimba.com/g/gyourfirstangularapp?utm_source=freecodecamp.org&utm_medium=referral&utm_campaign=gyourfirstangularapp_launch_article
+- https://codecraft.tv/courses/angular/ 👍
 - https://www.bitovi.com/academy/ - Bitovi Academy 👪
   - [Angular](https://www.bitovi.com/academy/learn-angular.html) ⚪
   - [TypeScript](https://www.bitovi.com/academy/learn-typescript.html)
