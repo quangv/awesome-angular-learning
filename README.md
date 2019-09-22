@@ -8,6 +8,8 @@ List of Angular courses
 
 # Binge Learning Sites
 
+- https://frontendmasters.com - 7 courses - 49h+
+  - https://frontendmasters.com/learn/angular/ - 👪
 - https://www.pluralsight.com/
   - https://app.pluralsight.com/paths/skill/angular - 14 courses - 52h Angular Path 🧠
 - https://www.lynda.com/
