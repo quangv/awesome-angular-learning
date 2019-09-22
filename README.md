@@ -1,5 +1,10 @@
 List of Angular courses
 
+# Angular Specific Sites
+
+- https://ultimatecourses.com/courses/angular 👍
+- https://angular-university.io/ 🧠
+
 # Courses
 
 - https://www.udemy.com/the-complete-guide-to-angular-2/ - 37h by Maximilian Schwarzmüller (youtuber)
@@ -29,6 +34,10 @@ List of Angular courses
   - [JS](https://www.bitovi.com/academy/learn-advanced-javascript.html)
 - https://www.udemy.com/course/getting-started-with-angular-2/
 
+
+# Awesome 🕶️
+
+- https://github.com/avatsaev/angular-learning-resources
 
 
 
