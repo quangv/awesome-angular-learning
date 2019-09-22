@@ -42,6 +42,7 @@ List of Angular courses
 - https://teamtreehouse.com/library/angular-basics-2
 - https://www.sitepoint.com/learn/angular/
 - https://thinkster.io/tutorials/learn-angular-2
+- https://www.udemy.com/courses/search/?src=ukw&q=angular&p=1&price=price-free&sort=most-reviewed - fair amount of free Angular courses on Udemy
 
 
 # Awesome 🕶️
