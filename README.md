@@ -10,6 +10,8 @@ List of Angular courses
 
 - https://frontendmasters.com - 7 courses - 49h+
   - https://frontendmasters.com/learn/angular/ - 👪
+- https://egghead.io/browse/frameworks/angular - 23 courses 🧠
+  - https://egghead.io/browse/libraries/rxjs 👪
 - https://www.pluralsight.com/
   - https://app.pluralsight.com/paths/skill/angular - 14 courses - 52h Angular Path 🧠
 - https://www.lynda.com/
