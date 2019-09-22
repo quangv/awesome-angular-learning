@@ -37,6 +37,7 @@ List of Angular courses
 - https://www.udemy.com/course/getting-started-with-angular-2/
 - https://teamtreehouse.com/library/angular-basics-2
 - https://www.sitepoint.com/learn/angular/
+- https://thinkster.io/tutorials/learn-angular-2
 
 
 # Awesome 🕶️
