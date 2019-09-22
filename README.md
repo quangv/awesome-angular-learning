@@ -19,6 +19,7 @@ List of Angular courses
 
 # Free
 
+- https://angular.io/tutorial - Tour of Heroes!
 - https://www.bitovi.com/academy/ - Bitovi Academy 👪
   - [Angular](https://www.bitovi.com/academy/learn-angular.html) ⚪
   - [TypeScript](https://www.bitovi.com/academy/learn-typescript.html)
