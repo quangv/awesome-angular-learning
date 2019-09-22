@@ -10,7 +10,9 @@ List of Angular courses
 - https://www.udemy.com/the-complete-guide-to-angular-2/ - 37h by Maximilian Schwarzmüller (youtuber)
 - https://www.udemy.com/the-complete-angular-master-class/ - 29.5h
 - https://www.udemy.com/angular-crash-course/ - 10.5h ⚪
+- https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/ - 12.5h - The MEAN Stack Guide
 - https://www.udemy.com/angular-4-front-to-back/ - 11.5h
+- https://www.udemy.com/angular-full-app-with-angular-material-angularfire-ngrx/ - 11h
 - https://ultimatecourses.com/courses/angular 👍
 
 # Binge Learning Sites
@@ -47,6 +49,9 @@ List of Angular courses
 - https://github.com/PatrickJS/awesome-angular
 - https://blog.bitsrc.io/the-state-of-angular-in-2019-b5fb7783a1c6 - Overview of different topics related to Angular in 2019
 
+# Other
+
+- https://www.udemy.com/ionic-2-the-practical-guide-to-building-ios-android-apps/ - 35h - Ionic 4
 
 
 ----
