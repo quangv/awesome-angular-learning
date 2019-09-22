@@ -4,7 +4,7 @@ List of Angular courses
 
 - https://ultimatecourses.com/courses/angular 👍
 - https://angular-university.io/ 🧠
-  - https://github.com/angular-university
+  - https://github.com/angular-university 👪
 
 # Courses
 
