@@ -58,3 +58,5 @@ List of Angular courses
 
 (icon labels are used conservatively)
 ```
+
+Did I miss a high-quality Angular course? PR's are welcomed! Thanks.
