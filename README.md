@@ -4,6 +4,7 @@ List of Angular courses
 
 - https://angular-university.io/ 🧠
   - https://github.com/angular-university 👪
+  - https://www.udemy.com/rxjs-reactive-angular-course/ 📈 by Angular-University
 
 # Courses
 
@@ -53,6 +54,7 @@ List of Angular courses
 
 - https://www.udemy.com/ionic-2-the-practical-guide-to-building-ios-android-apps/ - 35h - Ionic 4
 - https://www.udemy.com/course/test-driven-development-with-angular/ - 3h
+- https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/ -7h
 
 
 ----
