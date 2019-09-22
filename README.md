@@ -39,6 +39,7 @@ List of Angular courses
 # Awesome 🕶️
 
 - https://github.com/avatsaev/angular-learning-resources
+- https://github.com/PatrickJS/awesome-angular
 
 
 
