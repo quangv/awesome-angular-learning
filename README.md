@@ -10,6 +10,7 @@ List of Angular courses
 - https://www.udemy.com/the-complete-guide-to-angular-2/ - 37h by Maximilian Schwarzmüller (youtuber)
 - https://www.udemy.com/the-complete-angular-master-class/ - 29.5h
 - https://www.udemy.com/angular-crash-course/ - 10.5h ⚪
+- https://www.udemy.com/angular-4-front-to-back/ - 11.5h
 - https://ultimatecourses.com/courses/angular 👍
 
 # Binge Learning Sites
