@@ -25,6 +25,7 @@ List of Angular courses
   - [TypeScript](https://www.bitovi.com/academy/learn-typescript.html)
   - [RxJS](https://www.bitovi.com/academy/learn-rxjs.html)
   - [JS](https://www.bitovi.com/academy/learn-advanced-javascript.html)
+- https://www.udemy.com/course/getting-started-with-angular-2/
 
 
 
