@@ -65,6 +65,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/avatsaev/angular-learning-resources
 - https://github.com/PatrickJS/awesome-angular
 - https://blog.bitsrc.io/the-state-of-angular-in-2019-b5fb7783a1c6 - Overview of different topics related to Angular in 2019
+- 🔮 https://github.com/quangv/awesome-zeitgeist - Surveys and trends relevant to front-end design & development.
 
 
 
