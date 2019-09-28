@@ -81,4 +81,4 @@ Awesome Angular Learning Resources, Courses & Examples
 (icon labels are used conservatively)
 ```
 
-Did I miss a high-quality Angular course? PR's are welcomed! Thanks.
+Did I miss a high-quality Angular course? **PR's** are welcomed! Thanks.
