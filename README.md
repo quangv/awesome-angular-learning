@@ -58,6 +58,7 @@ Awesome Angular Learning Resources, Courses & Examples
 # 📊 Awesome Angular Examples
 
 - https://github.com/gothinkster/angular-realworld-example-app
+- https://github.com/thardy/kazuku - Kazuku CMS
 
 
 # 🔗 Other Awesome Ng Resources
