@@ -12,7 +12,8 @@ Awesome Angular Learning Resources, Courses & Examples
   - [Free](#free-angular-courses)
   - [Other](#other-focused-angular-courses)
 - 📊 [Ng Examples](#-awesome-angular-examples)
-  - [common](#common-examples)
+  - [common examples](#common-examples)
+    - [TodoMVC](#todomvc)
   - [other examples](#other-examples)
 - 📰 [Ng News](#-keep-up-to-date-with-ng)
 - 🔗 [Ng Other Resources](#-other-awesome-ng-resources)
@@ -80,10 +81,21 @@ Awesome Angular Learning Resources, Courses & Examples
 ## 📊 Awesome Angular Examples
 
 ### Common Examples
+
+#### TodoMVC
 - https://github.com/tastejs/todomvc/tree/master/examples/angular2_es2015 - TodoMVC
   - https://github.com/tastejs/todomvc/pull/1581 - PR (how it differs from the [todomvc/angular2](https://github.com/tastejs/todomvc/tree/master/examples/angular2) example)
   - http://todomvc.com/examples/angular2_es2015/#/ - see it live
+- https://github.com/addyosmani/todomvc-angular-4 - Angular 4 TodoMVC
+- https://github.com/bookwalker/angular-todomvc - Angular 7 TodoMVC
+- https://github.com/tastejs/todomvc/tree/master/examples/angular2 - Original TodoMVC angular2 example.
+  
+  
+#### Real-World Example
 - https://github.com/gothinkster/angular-realworld-example-app - Angular Real World Example
+
+#### Progressive Hacker-News Client
+- https://github.com/housseindjirdeh/angular2-hn
 
 ### Other Examples
 - https://github.com/thardy/kazuku - Kazuku CMS
