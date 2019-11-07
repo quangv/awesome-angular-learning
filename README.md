@@ -1,14 +1,16 @@
+# Learn Angular
+
 Awesome Angular Learning Resources, Courses & Examples
 
-# 📕 Ng Courses
+## 📕 Ng Courses
 
-## Angular Specific Learning Sites
+### Angular Specific Learning Sites
 
 - https://angular-university.io/ 🧠
   - https://github.com/angular-university 👪
   - https://www.udemy.com/rxjs-reactive-angular-course/ 📈 by Angular-University
 
-## Individual Angular Courses
+### Individual Angular Courses
 
 - https://www.udemy.com/the-complete-guide-to-angular-2/ - 37h by Maximilian Schwarzmüller (youtuber)
 - https://www.udemy.com/the-complete-angular-master-class/ - 29.5h
@@ -18,7 +20,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://www.udemy.com/angular-full-app-with-angular-material-angularfire-ngrx/ - 11h
 - https://ultimatecourses.com/courses/angular 👍
 
-## Binge Learning Sites
+### Binge Learning Sites
 
 - https://frontendmasters.com - 7 courses - 49h+
   - https://frontendmasters.com/learn/angular/ - 👪
@@ -29,7 +31,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://www.lynda.com/
   - https://www.lynda.com/AngularJS-training-tutorials/1696-0.html?category=advanced_339 - 📈
 
-## Free Angular Courses
+### Free Angular Courses
 
 - https://angular.io/tutorial - Tour of Heroes!
 - https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/ 👍
@@ -46,7 +48,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://thinkster.io/tutorials/learn-angular-2
 - https://www.udemy.com/courses/search/?src=ukw&q=angular&p=1&price=price-free&sort=most-reviewed - fair amount of free Angular courses on Udemy
 
-## Other Focused Angular Courses 
+### Other Focused Angular Courses 
 
 - https://www.udemy.com/ionic-2-the-practical-guide-to-building-ios-android-apps/ - 35h - Ionic 4
 - https://www.udemy.com/course/test-driven-development-with-angular/ - 3h
@@ -55,14 +57,14 @@ Awesome Angular Learning Resources, Courses & Examples
 
 ----
 
-# 📊 Awesome Angular Examples
+## 📊 Awesome Angular Examples
 
 - https://github.com/gothinkster/angular-realworld-example-app
 - https://github.com/thardy/kazuku - Kazuku CMS
 - https://github.com/EladBezalel/material2-start - Angular Flex-Layout with Angular Material, tutorial & starter template
 
 
-# 🔗 Other Awesome Ng Resources
+## 🔗 Other Awesome Ng Resources
 
 - https://github.com/avatsaev/angular-learning-resources
 - https://github.com/PatrickJS/awesome-angular
