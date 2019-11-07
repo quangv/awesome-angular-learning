@@ -2,7 +2,7 @@
 
 Awesome Angular Learning Resources, Courses & Examples
 
-## Contents 📖
+## 📖 Contents
 
 - 📕 [Ng Courses](#ng-courses-)
 - 📊 [Ng Examples](#awesome-angular-examples-)
@@ -67,11 +67,17 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/thardy/kazuku - Kazuku CMS
 - https://github.com/EladBezalel/material2-start - Angular Flex-Layout with Angular Material, tutorial & starter template
 
+## Keep up to date with Ng
+
+- https://www.reddit.com/r/Angular2/top/?t=month - Reddit/angular2 - Top this month
+- https://dev.to/t/angular/top/month - Dev.to/angular - Top this month
+
 
 ## Other Awesome Ng Resources 🔗
 
 - https://github.com/avatsaev/angular-learning-resources
 - https://github.com/PatrickJS/awesome-angular
+- https://stackoverflow.com/questions/tagged/angular - Stack Overflow, most voted questions 👍
 - https://hackr.io/tutorials/learn-angular - Hackr.io is a community to find and share the best online courses & tutorials.
 - https://blog.bitsrc.io/the-state-of-angular-in-2019-b5fb7783a1c6 - Overview of different topics related to Angular in 2019
 - 🔮 https://github.com/quangv/awesome-zeitgeist - Surveys and trends relevant to front-end design & development.
