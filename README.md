@@ -69,7 +69,13 @@ Awesome Angular Learning Resources, Courses & Examples
 
 ## 📊 Awesome Angular Examples
 
-- https://github.com/gothinkster/angular-realworld-example-app
+### Standard Examples
+- https://github.com/tastejs/todomvc/tree/master/examples/angular2_es2015 - TodoMVC
+  - https://github.com/tastejs/todomvc/pull/1581 - PR (how it differs from the [todomvc/angular2](https://github.com/tastejs/todomvc/tree/master/examples/angular2) example)
+  - http://todomvc.com/examples/angular2_es2015/#/ - see it live
+- https://github.com/gothinkster/angular-realworld-example-app - Angular Real World Example
+
+### Other Examples
 - https://github.com/thardy/kazuku - Kazuku CMS
 - https://github.com/EladBezalel/material2-start - Angular Flex-Layout with Angular Material, tutorial & starter template
 
