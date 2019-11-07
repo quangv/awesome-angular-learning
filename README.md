@@ -4,17 +4,17 @@ Awesome Angular Learning Resources, Courses & Examples
 
 ## 📖 Contents
 
-- 📕 [Ng Courses](#ng-courses-)
+- 📕 [Ng Courses](#-ng-courses)
   - [Focused Sites](#angular-specific-learning-sites)
   - [Individual](#individual-angular-courses)
   - [Binge Sites](#binge-learning-sites)
   - [Free](#free-angular-courses)
   - [Other](#other-focused-angular-courses)
-- 📊 [Ng Examples](#awesome-angular-examples-)
-- 📰 [Ng News](#keep-up-to-date-with-ng-)
-- 🔗 [Ng Other Resources](#other-awesome-ng-resources-)
+- 📊 [Ng Examples](#-awesome-angular-examples)
+- 📰 [Ng News](#-keep-up-to-date-with-ng)
+- 🔗 [Ng Other Resources](#-other-awesome-ng-resources)
 
-## Ng Courses 📕
+## 📕 Ng Courses
 
 ### Angular Specific Learning Sites
 
@@ -67,13 +67,13 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/ -7h
 
 
-## Awesome Angular Examples 📊
+## 📊 Awesome Angular Examples
 
 - https://github.com/gothinkster/angular-realworld-example-app
 - https://github.com/thardy/kazuku - Kazuku CMS
 - https://github.com/EladBezalel/material2-start - Angular Flex-Layout with Angular Material, tutorial & starter template
 
-## Keep up to date with Ng 📰
+## 📰 Keep up to date with Ng
 
 - https://www.reddit.com/r/Angular2/top/?t=month - Reddit/angular2 - Top this month
 - https://dev.to/t/angular/top/month - Dev.to/angular - Top this month
@@ -81,7 +81,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://twitter.com/hashtag/angular - #angular on Twitter
 
 
-## Other Awesome Ng Resources 🔗
+## 🔗 Other Awesome Ng Resources
 
 - https://github.com/avatsaev/angular-learning-resources
 - https://github.com/PatrickJS/awesome-angular
