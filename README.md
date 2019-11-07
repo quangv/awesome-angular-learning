@@ -15,7 +15,7 @@ Awesome Angular Learning Resources, Courses & Examples
   - [common examples](#common-examples)
     - [TodoMVC](#todomvc)
     - [Real-World Example](#real-world-example)
-    - [Hacker News Client)(#progressive-hacker-news-client)
+    - [Hacker News Client](#progressive-hacker-news-client)
   - [other examples](#other-examples)
 - 📰 [Ng News](#-keep-up-to-date-with-ng)
 - 🔗 [Ng Other Resources](#-other-awesome-ng-resources)
