@@ -4,6 +4,7 @@ Awesome Angular Learning Resources, Courses & Examples
 
 ## 📖 Contents
 
+- 📚 [Ng Books](#-recommended-angular-books)
 - 📕 [Ng Courses](#-ng-courses)
   - [Focused Sites](#angular-specific-learning-sites)
   - [Individual](#individual-angular-courses)
@@ -15,6 +16,13 @@ Awesome Angular Learning Resources, Courses & Examples
   - [other examples](#other-examples)
 - 📰 [Ng News](#-keep-up-to-date-with-ng)
 - 🔗 [Ng Other Resources](#-other-awesome-ng-resources)
+
+## 📚 Recommended Angular Books
+
+- [Programming TypeScript](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/) - Best TypeScript book that I've read to learn typescript.
+- [Pro Angular 6](https://www.amazon.com/Pro-Angular-6-Adam-Freeman/dp/1484236483/) - Great Angular2+ book.
+- [Become a Ninja with Angular](https://books.ninja-squad.com/angular) - Nice in-depth and gives background and history of the development of Angular.
+- https://egghead.io/browse/libraries/rxjs - not a book, but my recommended way to learn RxJS.
 
 ## 📕 Ng Courses
 
@@ -39,7 +47,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://frontendmasters.com - 7 courses - 49h+
   - https://frontendmasters.com/learn/angular/ - 👪
 - https://egghead.io/browse/frameworks/angular - 23 courses 🧠
-  - https://egghead.io/browse/libraries/rxjs 👪
+  - https://egghead.io/browse/libraries/rxjs 🌟
 - https://www.pluralsight.com/
   - https://app.pluralsight.com/paths/skill/angular - 14 courses - 52h Angular Path 🧠
 - https://www.lynda.com/
@@ -103,6 +111,7 @@ Awesome Angular Learning Resources, Courses & Examples
 
 ----
 ```
+🌟 = highly recommended
 ⚪ = not comprehensive
 📈 = advance
 🧠 = comprehensive, includes advance material
