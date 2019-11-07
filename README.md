@@ -1,8 +1,12 @@
-# Learn Angular
+# Awesome Angular Learning 😎
 
 Awesome Angular Learning Resources, Courses & Examples
 
-## 📕 Ng Courses
+## Contents 📖
+
+- []()
+
+## Ng Courses 📕
 
 ### Angular Specific Learning Sites
 
@@ -55,16 +59,14 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/ -7h
 
 
-----
-
-## 📊 Awesome Angular Examples
+## Awesome Angular Examples 📊
 
 - https://github.com/gothinkster/angular-realworld-example-app
 - https://github.com/thardy/kazuku - Kazuku CMS
 - https://github.com/EladBezalel/material2-start - Angular Flex-Layout with Angular Material, tutorial & starter template
 
 
-## 🔗 Other Awesome Ng Resources
+## Other Awesome Ng Resources 🔗
 
 - https://github.com/avatsaev/angular-learning-resources
 - https://github.com/PatrickJS/awesome-angular
