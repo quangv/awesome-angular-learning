@@ -5,6 +5,11 @@ Awesome Angular Learning Resources, Courses & Examples
 ## 📖 Contents
 
 - 📕 [Ng Courses](#ng-courses-)
+  - [Specific Sites](#angular-specific-learning-sites)
+  - [Individual](#individual-angular-courses)
+  - [Binge Sites](#binge-learning-sites)
+  - [Free](#free-angular-courses)
+  - [Other](#other-focused-angular-courses)
 - 📊 [Ng Examples](#awesome-angular-examples-)
 - 📰 [Ng News](#keep-up-to-date-with-ng-)
 - 🔗 [Ng Other Resources](#other-awesome-ng-resources-)
