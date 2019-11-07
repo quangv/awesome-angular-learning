@@ -11,6 +11,8 @@ Awesome Angular Learning Resources, Courses & Examples
   - [Free](#free-angular-courses)
   - [Other](#other-focused-angular-courses)
 - 📊 [Ng Examples](#-awesome-angular-examples)
+  - [common](#common-examples)
+  - [other examples](#other-examples)
 - 📰 [Ng News](#-keep-up-to-date-with-ng)
 - 🔗 [Ng Other Resources](#-other-awesome-ng-resources)
 
@@ -69,7 +71,7 @@ Awesome Angular Learning Resources, Courses & Examples
 
 ## 📊 Awesome Angular Examples
 
-### Standard Examples
+### Common Examples
 - https://github.com/tastejs/todomvc/tree/master/examples/angular2_es2015 - TodoMVC
   - https://github.com/tastejs/todomvc/pull/1581 - PR (how it differs from the [todomvc/angular2](https://github.com/tastejs/todomvc/tree/master/examples/angular2) example)
   - http://todomvc.com/examples/angular2_es2015/#/ - see it live
