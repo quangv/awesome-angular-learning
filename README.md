@@ -87,7 +87,6 @@ Awesome Angular Learning Resources, Courses & Examples
 #### TodoMVC
 - https://github.com/tastejs/todomvc/tree/master/examples/angular2_es2015/app - TodoMVC
   - https://github.com/tastejs/todomvc/pull/1581 - PR (how it differs from the [todomvc/angular2](https://github.com/tastejs/todomvc/tree/master/examples/angular2) example)
-  - http://todomvc.com/examples/angular2_es2015/#/ - see it live
 - https://github.com/addyosmani/todomvc-angular-4/tree/master/src - Angular 4 TodoMVC
 - https://github.com/bookwalker/angular-todomvc/tree/master/src/app - Angular 7 TodoMVC
 - https://github.com/tastejs/todomvc/tree/master/examples/angular2/app - Original TodoMVC angular2 example.
