@@ -119,8 +119,13 @@ Awesome Angular Learning Resources, Courses & Examples
 
 ### Seed/Starter Examples
 
+- https://github.com/angular/angular2-seed/tree/master/src/app
 - https://github.com/PatrickJS/angular-starter/tree/master/src/app
 - https://github.com/qdouble/angular-webpack-starter/tree/master/src/app
+- https://github.com/tomastrajan/angular-ngrx-material-starter/tree/master/projects/angular-ngrx-material-starter/src/app
+- https://github.com/vladotesanovic/angular2-express-starter/tree/master/src/app - Express
+- https://github.com/lathonez/clicker - Ionic 2
+- https://github.com/maximegris/angular-electron/tree/master/src/app - Electron
 
 ### Other Examples
 - https://github.com/hamedbaatour/minimus/tree/master/src/app - A fully featured production ready Angular 8 weather app tutorial project
@@ -128,6 +133,15 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/EladBezalel/material2-start - Angular Flex-Layout with Angular Material, tutorial & starter template
 - https://github.com/anihalaney/rwa-trivia - Large Trivia App, has walk-thru tutorials 👍
 - https://github.com/r-park/todo-angular-firebase
+- https://github.com/TwanoO67/bootstraping-ngx-admin-lte/tree/master/src/app
+- https://github.com/DeborahK/Angular-GettingStarted/tree/master/APM-Final/src/app
+- https://github.com/coursefiles/angular2-essential-training/tree/master/app
+- https://github.com/Ismaestro/angular8-example-app/tree/master/src/app
+- https://github.com/aviabird/angularspree/tree/develop/src/app
+- https://github.com/akveo/ngx-admin/tree/master/src/app
+- https://github.com/codetok/cdk-admin/tree/master/src/app
+- https://github.com/cornflourblue/angular2-registration-login-example/tree/master/app
+- https://github.com/houko/Angular2
 
 ## 📰 Keep up to date with Ng
 
