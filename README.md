@@ -16,6 +16,7 @@ Awesome Angular Learning Resources, Courses & Examples
     - [TodoMVC](#todomvc)
     - [Real-World Example](#real-world-example)
     - [Hacker News Client](#hacker-news-pwa)
+    - [Tour of Heroes](#tour-of-heroes)
     - [Pokedex](#pokedex)
   - [other examples](#other-examples)
 - 📰 [Ng News](#-keep-up-to-date-with-ng)
@@ -106,6 +107,9 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/SebastianM/angular-hacker-news/tree/master/src
 - https://github.com/alfredoperez/ngx-hn/tree/master/src/app
 - https://github.com/Ashishdce/hn-pwa-angular/tree/master/src/app
+
+#### Tour of Heroes
+- https://github.com/johnpapa/angular-tour-of-heroes/tree/master/src/app
 
 #### Pokedex
 
