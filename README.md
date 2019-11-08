@@ -115,6 +115,12 @@ Awesome Angular Learning Resources, Courses & Examples
 
 - https://github.com/coryrylan/ng-pokedex/tree/master/src/app
 
+
+### Seed/Starter Examples
+
+- https://github.com/PatrickJS/angular-starter/tree/master/src/app
+- https://github.com/qdouble/angular-webpack-starter/tree/master/src/app
+
 ### Other Examples
 - https://github.com/hamedbaatour/minimus/tree/master/src/app - A fully featured production ready Angular 8 weather app tutorial project
 - https://github.com/thardy/kazuku - Kazuku CMS
