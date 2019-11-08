@@ -101,7 +101,10 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app - with ngrx & nx.
 
 #### Hacker-News PWA
-- https://github.com/housseindjirdeh/angular2-hn
+- https://github.com/housseindjirdeh/angular2-hn/tree/master/src/app
+- https://github.com/SebastianM/angular-hacker-news/tree/master/src
+- https://github.com/alfredoperez/ngx-hn/tree/master/src/app
+- https://github.com/Ashishdce/hn-pwa-angular/tree/master/src/app
 
 ### Other Examples
 - https://github.com/hamedbaatour/minimus/tree/master/src/app - A fully featured production ready Angular 8 weather app tutorial project
