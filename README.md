@@ -107,6 +107,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/hamedbaatour/minimus/tree/master/src/app - A fully featured production ready Angular 8 weather app tutorial project
 - https://github.com/thardy/kazuku - Kazuku CMS
 - https://github.com/EladBezalel/material2-start - Angular Flex-Layout with Angular Material, tutorial & starter template
+- https://github.com/anihalaney/rwa-trivia - Large Trivia App, has walk-thru tutorials 👍
 
 ## 📰 Keep up to date with Ng
 
