@@ -18,6 +18,7 @@ Awesome Angular Learning Resources, Courses & Examples
     - [Hacker News Client](#hacker-news-pwa)
     - [Tour of Heroes](#tour-of-heroes)
     - [Pokedex](#pokedex)
+  - [Seed/Starter Examples](#seedstarter-examples)
   - [other examples](#other-examples)
 - 📰 [Ng News](#-keep-up-to-date-with-ng)
 - 🔗 [Ng Other Resources](#-other-awesome-ng-resources)
@@ -126,6 +127,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/thardy/kazuku - Kazuku CMS
 - https://github.com/EladBezalel/material2-start - Angular Flex-Layout with Angular Material, tutorial & starter template
 - https://github.com/anihalaney/rwa-trivia - Large Trivia App, has walk-thru tutorials 👍
+- https://github.com/r-park/todo-angular-firebase
 
 ## 📰 Keep up to date with Ng
 
