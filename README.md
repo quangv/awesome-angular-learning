@@ -12,10 +12,11 @@ Awesome Angular Learning Resources, Courses & Examples
   - [Free](#free-angular-courses)
   - [Other](#other-focused-angular-courses)
 - 📊 [Ng Examples](#-awesome-angular-examples)
-  - [common examples](#common-examples)
+  - [popular examples](#popular-examples)
     - [TodoMVC](#todomvc)
     - [Real-World Example](#real-world-example)
     - [Hacker News Client](#hacker-news-pwa)
+    - [Pokedex](#pokedex)
   - [other examples](#other-examples)
 - 📰 [Ng News](#-keep-up-to-date-with-ng)
 - 🔗 [Ng Other Resources](#-other-awesome-ng-resources)
@@ -82,7 +83,7 @@ Awesome Angular Learning Resources, Courses & Examples
 
 ## 📊 Awesome Angular Examples
 
-### Common Examples
+### Popular Examples
 
 #### TodoMVC
 - https://github.com/tastejs/todomvc/tree/master/examples/angular2_es2015/app - TodoMVC
@@ -105,6 +106,10 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/SebastianM/angular-hacker-news/tree/master/src
 - https://github.com/alfredoperez/ngx-hn/tree/master/src/app
 - https://github.com/Ashishdce/hn-pwa-angular/tree/master/src/app
+
+#### Pokedex
+
+- https://github.com/coryrylan/ng-pokedex/tree/master/src/app
 
 ### Other Examples
 - https://github.com/hamedbaatour/minimus/tree/master/src/app - A fully featured production ready Angular 8 weather app tutorial project
