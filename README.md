@@ -97,7 +97,8 @@ Awesome Angular Learning Resources, Courses & Examples
   
   
 #### Real-World Example
-- https://github.com/gothinkster/angular-realworld-example-app - Angular Real World Example
+- https://github.com/gothinkster/angular-realworld-example-app/tree/master/src/app - Angular Real World Example
+- https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app - with ngrx & nx.
 
 #### Hacker-News PWA
 - https://github.com/housseindjirdeh/angular2-hn
