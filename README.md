@@ -142,6 +142,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/codetok/cdk-admin/tree/master/src/app
 - https://github.com/cornflourblue/angular2-registration-login-example/tree/master/app
 - https://github.com/houko/Angular2
+- https://github.com/blacksonic/todoapp-angular - author of TodoMVC/angular2_es2015
 
 ## 📰 Keep up to date with Ng
 
