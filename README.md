@@ -123,8 +123,8 @@ Awesome Angular Learning Resources, Courses & Examples
 
 #### John Papa
 
-[Nice ng2 StyleGuide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/notes.md) - [PluralSight](https://app.pluralsight.com/profile/author/john-papa)
-
+- [ng2 StyleGuide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/notes.md)👍
+- [PluralSight](https://app.pluralsight.com/profile/author/john-papa) - Video Tutorials
 - https://github.com/johnpapa/angular-cosmosdb - cosmosdb express angular
 - https://github.com/johnpapa/awesome-angular-workshop
 - https://github.com/johnpapa/vikings
