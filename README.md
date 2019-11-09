@@ -18,6 +18,8 @@ Awesome Angular Learning Resources, Courses & Examples
     - [Hacker News Client](#hacker-news-pwa)
     - [Tour of Heroes](#tour-of-heroes)
     - [Pokedex](#pokedex)
+  - [experts](#expert-examples)
+    - [John Papa](#john-papa)
   - [Seed/Starter Examples](#seedstarter-examples)
   - [other examples](#other-examples)
 - 📰 [Ng News](#-keep-up-to-date-with-ng)
@@ -115,6 +117,19 @@ Awesome Angular Learning Resources, Courses & Examples
 #### Pokedex
 
 - https://github.com/coryrylan/ng-pokedex/tree/master/src/app
+
+
+### Expert Examples
+
+#### John Papa
+
+[Nice ng2 StyleGuide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/notes.md) - [PluralSight](https://app.pluralsight.com/profile/author/john-papa)
+
+- https://github.com/johnpapa/angular-cosmosdb - cosmosdb express angular
+- https://github.com/johnpapa/awesome-angular-workshop
+- https://github.com/johnpapa/vikings
+- https://github.com/johnpapa/angular-first-look-examples
+- https://github.com/johnpapa/ng-demos - older examples, but here for posterity
 
 
 ### Seed/Starter Examples
