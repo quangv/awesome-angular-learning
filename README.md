@@ -91,6 +91,7 @@ Awesome Angular Learning Resources, Courses & Examples
 ### Reference Examples
 
 - https://github.com/gothinkster/angular-realworld-example-app/ - Realworld example, modules example.
+- https://github.com/johnpapa/angular-cosmosdb/tree/master/src - Client/Server code on one repository.
 
 
 ### Popular Examples
