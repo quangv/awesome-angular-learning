@@ -92,7 +92,8 @@ Awesome Angular Learning Resources, Courses & Examples
 
 - https://github.com/gothinkster/angular-realworld-example-app/ - Realworld example, modules example.
 - https://github.com/johnpapa/angular-cosmosdb/tree/master/src - Client/Server code on one repository.
-
+- https://stackblitz.com/angular/aykjopnoxpx?file=src%2Fapp%2Fgreeting%2Fuser.service.ts - singleton service example (reference in the [docs](https://angular.io/guide/singleton-services))
+- https://stackblitz.com/angular/jleevaraabv?file=src%2Fapp%2Fapp.component.ts - lazy loading modules example (reference in the [docs](https://angular.io/guide/lazy-loading-ngmodules))
 
 ### Popular Examples
 
