@@ -12,6 +12,7 @@ Awesome Angular Learning Resources, Courses & Examples
   - [Free](#free-angular-courses)
   - [Other](#other-focused-angular-courses)
 - 📊 [Ng Examples](#-awesome-angular-examples)
+  - [reference examples](#reference-examples)
   - [popular examples](#popular-examples)
     - [TodoMVC](#todomvc)
     - [Real-World Example](#real-world-example)
@@ -86,6 +87,11 @@ Awesome Angular Learning Resources, Courses & Examples
 
 
 ## 📊 Awesome Angular Examples
+
+### Reference Examples
+
+- https://github.com/gothinkster/angular-realworld-example-app/ - Realworld example, modules example.
+
 
 ### Popular Examples
 
