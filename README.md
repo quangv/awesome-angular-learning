@@ -40,6 +40,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://angular-university.io/ 🧠
   - https://github.com/angular-university 👪
   - https://www.udemy.com/rxjs-reactive-angular-course/ 📈 by Angular-University
+- https://angularcasts.io/ - by [Ryan Chenkie](https://medium.com/@ryanchenkie_40935) author of [Securing Angular Applications](https://ryanchenkie.com/securing-angular-applications/)
 
 ### Individual Angular Courses
 
