@@ -107,11 +107,12 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/bookwalker/angular-todomvc/tree/master/src/app - Angular 7 TodoMVC
 - https://github.com/addyosmani/todomvc-angular-4/tree/master/src/app - Angular 4 TodoMVC
 - https://github.com/tastejs/todomvc/tree/master/examples/angular2/app - Original TodoMVC angular2 example.
-- https://github.com/mailok/todo-ngxs - NG + NGXS example
-- https://github.com/mailok/todo-akita - NG + Akita example
-- https://github.com/lacolaco/angular-todomvc/tree/master/projects/todomvc-ngrx/src/app - Angular 8 TodoMVC with ngrx.
-- https://github.com/bookwalker/angular-ngrx-todomvc - another NgRx example.
-- https://github.com/nicobytes/todo-app-ngrx - yet another NgRx example.
+- State Managers (NgRx, NGXS, Akita)
+  - https://github.com/mailok/todo-akita - NG + Akita example
+  - https://github.com/mailok/todo-ngxs - NG + NGXS example
+  - https://github.com/lacolaco/angular-todomvc - NgRx - TodoMVC example.
+  - https://github.com/bookwalker/angular-ngrx-todomvc - another NgRx example.
+  - https://github.com/nicobytes/todo-app-ngrx - yet another NgRx example.
   
   
 #### Real-World Example
