@@ -109,6 +109,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/tastejs/todomvc/tree/master/examples/angular2/app - Original TodoMVC angular2 example.
 - State Managers (NgRx, NGXS, Akita)
   - https://github.com/mailok/todo-akita - NG + Akita example 👍
+  - https://stackblitz.com/edit/akita-todos-app - not "TodoMVC" but example from the [intro blog post](https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8).
   - https://github.com/mailok/todo-ngxs - NG + NGXS example
   - https://github.com/lacolaco/angular-todomvc - NgRx - TodoMVC example.
   - https://github.com/bookwalker/angular-ngrx-todomvc - another NgRx example.
