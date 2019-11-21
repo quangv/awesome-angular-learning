@@ -19,6 +19,8 @@ Awesome Angular Learning Resources, Courses & Examples
     - [Hacker News Client](#hacker-news-pwa)
     - [Tour of Heroes](#tour-of-heroes)
     - [Pokedex](#pokedex)
+  - [state-manager examples](#state-manager-examples)
+    - [Akita](#akita)
   - [experts](#expert-examples)
     - [John Papa](#john-papa)
   - [Seed/Starter Examples](#seedstarter-examples)
