@@ -139,6 +139,9 @@ Awesome Angular Learning Resources, Courses & Examples
 
 #### Akita
 
+- [Recommended Application Structure](https://netbasal.gitbook.io/akita/general/application-structure)
+- https://github.com/datorama/akita/tree/master/examples/angular-ecommerce - Akita ecommerce example
+  - https://engineering.datorama.com/building-production-quality-real-world-applications-with-angular-akita-bf18d516f2f7 - blog post about ecommerce example.
 - https://stackblitz.com/edit/akita-todos-app - not "TodoMVC" but example from the [intro blog post](https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8).
 - https://github.com/datorama/akita/tree/master/angular/playground - Akita Playground, can be viewed live http://akita.surge.sh/
 - https://github.com/datorama/akita/network/dependents?package_id=UGFja2FnZS00NTE4NzU1ODc%3D - lots of examples on GitHub dependancy graph.
