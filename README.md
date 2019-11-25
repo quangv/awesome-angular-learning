@@ -97,6 +97,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/johnpapa/angular-cosmosdb/tree/master/src - Client/Server code on one repository.
 - https://stackblitz.com/angular/aykjopnoxpx?file=src%2Fapp%2Fgreeting%2Fuser.service.ts - singleton service example (reference in the [docs](https://angular.io/guide/singleton-services))
 - https://stackblitz.com/angular/jleevaraabv?file=src%2Fapp%2Fapp-routing.module.ts - lazy loading modules example (reference in the [docs](https://angular.io/guide/lazy-loading-ngmodules))
+- https://stackblitz.com/angular/rllqkyqadgvb?file=src%2Fapp%2Fapp.component.ts - simple ngModule example
 
 ### Popular Examples
 
