@@ -99,6 +99,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://stackblitz.com/angular/jleevaraabv?file=src%2Fapp%2Fapp-routing.module.ts - lazy loading modules example (reference in the [docs](https://angular.io/guide/lazy-loading-ngmodules))
 - https://stackblitz.com/angular/rllqkyqadgvb?file=src%2Fapp%2Fapp.component.ts - simple ngModule example
 - https://stackblitz.com/angular/aqqyljyojye - Router example from the Ng docs.
+- https://github.com/ngx-rocket/generator-ngx-rocket - Extensible Angular 8+ enterprise-grade project generator 👍
 
 ### Popular Examples
 
