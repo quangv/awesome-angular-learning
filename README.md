@@ -191,6 +191,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/blacksonic/todoapp-angular - author of TodoMVC/angular2_es2015
 - https://github.com/luixaviles/socket-io-typescript-chat - A chat application implemented using Socket.io, TypeScript, Angular and Angular Material components ✨671 stars
 - https://github.com/webmaxru/pwatter - PWA Angular Progressive Web App using Workbox
+- https://github.com/avatsaev/angular-contacts-app-example - Full Stack Angular PWA example app with NgRx & NestJS
 
 ## 📰 Keep up to date with Ng
 
