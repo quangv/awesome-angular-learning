@@ -161,6 +161,7 @@ Awesome Angular Learning Resources, Courses & Examples
 - https://github.com/johnpapa/vikings
 - https://github.com/johnpapa/angular-first-look-examples
 - https://github.com/johnpapa/ng-demos - older examples, but here for posterity
+- https://github.com/johnpapa/pwa-angular
 
 
 ### Seed/Starter Examples
